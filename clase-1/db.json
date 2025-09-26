@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Ana Martínez",
+    "email": "ana.martinez@example.com",
+    "country": "Argentina",
+    "role": "Admin"
+  },
+  {
+    "id": "2",
+    "name": "Carlos Pérez",
+    "email": "carlos.perez@example.com",
+    "country": "México",
+    "role": "User"
+  },
+  {
+    "id": "3",
+    "name": "Lucía Gómez",
+    "email": "lucia.gomez@example.com",
+    "country": "España",
+    "role": "Editor"
+  },
+  {
+    "id": "4",
+    "name": "Mateo Fernández",
+    "email": "mateo.fernandez@example.com",
+    "country": "Chile",
+    "role": "User"
+  },
+  {
+    "id": "5",
+    "name": "Sofía Rodríguez",
+    "email": "sofia.rodriguez@example.com",
+    "country": "Colombia",
+    "role": "Moderator"
+  }
+]

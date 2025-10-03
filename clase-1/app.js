@@ -1,6 +1,6 @@
 // file system
 import fs from "node:fs"
-import http from "http"
+import http from "node:http"
 
 const readData = () => {
   const data = JSON.parse(fs.readFileSync("./db.json"))
